@@ -1,5 +1,5 @@
 
-# Título do Projeto
+# Detona Ralph - Jogo
 
 Este repositório contém um jogo inspirado no personagem Detona Ralph, desenvolvido com HTML, CSS e JavaScript. O projeto foi criado como parte do aprendizado do curso oferecido pela Digital Innovation One (DIO), utilizando conceitos básicos de desenvolvimento web.
 
